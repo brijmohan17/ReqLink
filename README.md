@@ -115,7 +115,8 @@ npm run dev
 # Set up Backend
 cd ../Backend
 npm install
-npm run dev     
+npm run dev
+```    
 ---
 
 ## 🚀 **Future Enhancements**
@@ -126,6 +127,4 @@ npm run dev
 - 📈 Admin Analytics Dashboard for real-time insights  
 - 🗂️ Role-based resource tracking and mission logs  
 
----
-```
 
