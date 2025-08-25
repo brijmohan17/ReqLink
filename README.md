@@ -1,5 +1,3 @@
-# 🆘 **Team X-Force**
-
 ## 🚀 **ResQLink: Crowdsourced Disaster Relief Coordination Platform**
 
 ---
@@ -102,20 +100,12 @@ Through **geolocation**, **notifications**, and **role-specific dashboards**, Re
 
 ---
 
-
-
-## 🎥 **Demo Video**
-
-📹 [Watch Our Demo]([https://your-demo-link-here.com](https://drive.google.com/drive/folders/1u7CMJuIy364FzjRVRJZWXQiGH_3i5kn1))
-
----
-
 ## 🔧 **Installation Steps**
 
 ```sh
 # Clone the repository
-git clone https://github.com/Rushi992145/X-Force.git
-cd X-Force
+git clone https://github.com/brijmohan17/ReqLink.git
+cd ReqLink
 
 # Set up Frontend
 cd Frontend
@@ -125,17 +115,7 @@ npm run dev
 # Set up Backend
 cd ../Backend
 npm install
-npm run dev
-```
-
-
----
-## 🔑 **Credentials**
-Email & Password
-- Admin - rushi@gmail.com,12345
-- Ngo - brij@gmail.com , 123456
-- Volunteer - om@gmail.com,1234567        
-
+npm run dev     
 ---
 
 ## 🚀 **Future Enhancements**
@@ -148,14 +128,4 @@ Email & Password
 
 ---
 
-## 🤝 **Team X-Force**
 
-> *“In times of crisis, coordination saves lives.”*  
-> Built with ❤️ for those who need help, by those who want to help.
-
----
-
-<!--## 📬 **Want to Contribute?**-->
-
-<!--We welcome feedback, suggestions, and contributions!  -->
-<!--📧 Reach us at: [teamxforce@email.com](mailto:teamxforce@gmail.com)-->
