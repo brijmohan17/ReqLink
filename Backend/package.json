@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backed blue bit hackthon",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "v22.16.0"
+  },
+  "scripts": {
+    "dev": "nodemon -r dotenv/config src/index.js"
+  },
+  "author": "Rushikesh Hiray",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.6.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.5.0",
+    "firebase-admin": "^13.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.2",
+    "multer": "^2.0.1",
+    "nodemon": "^3.1.9",
+    "razorpay": "^2.9.6"
+  }
+}
